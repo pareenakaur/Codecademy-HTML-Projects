@@ -8,6 +8,7 @@ Heya! This repository contains the projects I have worked on to apply HTML, CSS 
 - New York City Blog (HTML Semantics)
 - Healthy Recipes (CSS Syntax and Selectors)
 - Olivia Woodruff Portfolio (CSS Visual Rules)
+- The Box Model: Davie's Burgers
 
 
 
