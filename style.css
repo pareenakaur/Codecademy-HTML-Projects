@@ -1,24 +1,23 @@
 .header {
-	background-color: CornflowerBlue;
-	text-align: center;
+  background-color: CornFlowerBlue;
+  text-align: center;
 }
 
 .about-me {
-	font-size: 20 px;
-	opacity: 0.5;
-
+  font-size: 20px;
+  opacity: 0.5;
 }
 
 .title {
-	font-weight: bold;
+  font-weight: bold;
 }
 
 h1 {
-	color: Azure;
+  color: Azure;
 }
 
 body {
-	font-family: 'Georgia';
-	background-image: url(https://content.codecademy.com/courses/learn-css-selectors-visual-rules/hypnotize_bg.png);
+  font-family: Georgia;
+  background-image: url("https://content.codecademy.com/courses/learn-css-selectors-visual-rules/hypnotize_bg.png");
 }
 
