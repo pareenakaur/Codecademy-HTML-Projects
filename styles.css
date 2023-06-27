@@ -1,0 +1,31 @@
+* {
+  font-family: Poppins, Verdana, serif;
+  background-color: #fff0e5;
+}
+
+body {
+  color: #202144;
+}
+
+table th, td{
+  border: 1px solid #202144;
+  text-align: center;
+  padding: 5px;
+}
+table th {
+  background-color: #f9d106;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.description {
+  text-align: left;
+}
+
+.code {
+  font-size: 15px;
+  font-family: monospace;
+  background-color: #ffffff;
+}
