@@ -22,8 +22,6 @@ h2 {
   text-transform: uppercase;
 }
 
-
-
 h3 {
   font-size: 20px;
   padding: 15px;
@@ -34,7 +32,6 @@ h3 {
   line-height: 2.7;
   letter-spacing: 0.8px;
 }
-
 
 th {
   border: 2px solid #8c6b48;
@@ -59,17 +56,18 @@ footer {
   background-color: #242f44;
   z-index: 5;
 }
-
 footer h3 {
   display: inline-block;
   font-size: 14px;
+  background-color: #242f44;
 }
 
 .container {
-  max-width: 905px;
+  max-width: 940px;
   margin: 0 auto;
   height: 800px;
 }
+
 
 .left {
   width: 150px;
