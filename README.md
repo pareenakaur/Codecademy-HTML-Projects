@@ -30,6 +30,11 @@ Heya! This repository contains the projects I have worked on to apply HTML, CSS 
 - Fotomatic (HTML & CSS Challenge Project)
 - Company Home Page (HTML & CSS Challenge Project)
 - Responsive Club Website (HTML & CSS Challenge Project)
+
+### JavaScript
+- Kelvin Weather (JavaScript data types, built-in methods, and variables)
+- Dog Years (JavaScript data types, built-in methods, and variables)
+
   
 
 
