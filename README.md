@@ -38,6 +38,7 @@ Heya! This repository contains the projects I have worked on to apply HTML, CSS 
 - Race Day (if, else if, else, switch, and ternary syntax to control the flow of a program in JavaScript)
 - Rock, Paper, Scissors (JavaScript function syntax, passing data to functions, the return keyword, ES6 arrow functions, and concise body syntax)
 - Sleep Debt Calculator (JavaScript function syntax, passing data to functions, the return keyword, ES6 arrow functions, and concise body syntax)
+- Training Days (global and block level scope in JavaScript)
 
   
 
