@@ -36,6 +36,8 @@ Heya! This repository contains the projects I have worked on to apply HTML, CSS 
 - Dog Years (JavaScript data types, built-in methods, and variables)
 - Magic Eight Ball (if, else if, else, switch, and ternary syntax to control the flow of a program in JavaScript)
 - Race Day (if, else if, else, switch, and ternary syntax to control the flow of a program in JavaScript)
+- Rock, Paper, Scissors (JavaScript function syntax, passing data to functions, the return keyword, ES6 arrow functions, and concise body syntax)
+- Sleep Debt Calculator (JavaScript function syntax, passing data to functions, the return keyword, ES6 arrow functions, and concise body syntax)
 
   
 
